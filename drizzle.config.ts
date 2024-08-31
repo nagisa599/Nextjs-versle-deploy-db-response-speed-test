@@ -5,6 +5,6 @@ export default defineConfig({
   schema: './db/schema.ts',
   out: './db/migrations',
   dbCredentials: {
-    url: process.env.AUTH_DRIZZLE_URL || '',
+    url: process.env.POSTGRES_URL || '',
   },
 });
