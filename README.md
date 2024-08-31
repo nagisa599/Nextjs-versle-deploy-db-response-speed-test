@@ -5,4 +5,3 @@
 ## パターン２：Nextjs(Vercel) ✖️ Supabase
 
 ## パターン３　 Nextjs(Vercel)　 ✖️ RDS(AWS)
-# Nextjs-versle-deploy-db-response-speed-test
