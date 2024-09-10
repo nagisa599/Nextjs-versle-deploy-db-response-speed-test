@@ -1,4 +1,4 @@
-# Nextjs(Vercel) 　 ✖️ DB(Supabase) 　における応答速度調査
+# Nextjs(Vercel) 　 ✖️ DB(Posgress(vercel) 　における応答速度調査
 
 このリポジトリは、Nextjs(vercel)とPosgress(vercel)を利用した場合の応答速度を調べるためのリポジトリーです
 
